@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+data/cache/
+data/knowledge_store/
+.env
